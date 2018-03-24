@@ -337,7 +337,7 @@ body {
 
   @media only screen and (min-width: 769px) and (max-width: 980px) {
     .main-section{
-      margin-left: 50px;
+      margin-left: 90px;
       width: 400px;
     }
 
@@ -354,7 +354,7 @@ body {
     }
 
     .sidebar{
-      margin-right: 20px;
+      margin-right: 40px;
     }
 
     .auth-image{
