@@ -335,14 +335,14 @@ body {
     }
   }
 
-  @media only screen and (min-width: 769px) and (max-width: 981px) {
+  @media only screen and (min-width: 769px) and (max-width: 980px) {
     .main-section{
-      margin-left: 100px;
+      margin-left: 50px;
       width: 400px;
     }
 
     #main-container{
-      max-width: 90%;
+      max-width: 100%;
     }
 
     #logo{
@@ -351,6 +351,10 @@ body {
 
     nav{
       margin-right: 100px;
+    }
+
+    .sidebar{
+      margin-right: 20px;
     }
 
     .auth-image{
